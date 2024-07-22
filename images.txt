@@ -4,5 +4,5 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 registry.k8s.io/ingress-nginx/controller:v1.10.1
 grafana/grafana:10.0.9
 prom/node-exporter:v1.8.1
-prom/prometheus：2.53.0
+prom/prometheus:2.53.0
 prom/alertmanager:0.27.0
