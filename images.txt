@@ -1,1 +1,1 @@
-prom/alermanager:0.27.0
+prom/alermanager:latest
